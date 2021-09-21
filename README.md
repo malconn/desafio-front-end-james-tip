@@ -43,7 +43,7 @@ Você é livre para implementar o código em qualquer padrão que achar mais ade
 Você pode adicionar funcionalidades ou utilizar outros componentes como desejar, mas não fuja da simplicidade.
 
 ## Entregáveis
-Ao final do desafio, você deverá realizar um "pull request" neste repositório, o qual deverá conter o seguinte conteúdo:
+Ao final do desafio, você deverá realizar um PULL REQUEST neste repositório, o qual deverá conter o seguinte conteúdo:
 * Todo e qualquer arquivo necessário para que possamos reproduzir a aplicação criada em um servidor web simples;
 Arquivo README.md, contendo:
 * Breve descrição das funcionalidades da aplicação entregue;
