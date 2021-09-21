@@ -19,6 +19,8 @@ Para isto, foram estipuladas algumas necessidades, as quais devem ser atendidas:
 * Otimizar aplicativos para máxima velocidade e escalabilidade;
 * Realizar a engenharia da experiência de design de interação de elementos na interface do usuário;
 * Garantir uma navegação intuitiva e com acessibilidade;
+
+&nbsp;
 A principal ideia aqui é que você faça por você mesmo (DIY);
 
 
@@ -50,16 +52,28 @@ Após, envie e-mail para *marcio.tavares@jamestip.com.br*, com cópia para *torr
 
 ## O que será avaliado?
 Usabilidade
+
+
 &nbsp;
 Criatividade
+
+
 &nbsp;
 Boa apresentação (Layout Clean e Profissional)
+
+
 &nbsp;
 Boas práticas da arquitetura da informação
+
+
 &nbsp;
 Código limpo e organização
+
+
 &nbsp;
 Documentação de código (*Tip:* Podem ser “comentários” no código)
+
+
 &nbsp;
 Capacidade de tomada de decisões técnicas
  
