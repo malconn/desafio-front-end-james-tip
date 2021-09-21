@@ -12,14 +12,14 @@ Um de nossos projetos internos necessita de uma “cara nova” para que os clie
 * Valor do Produto
 
 Para isto, foram estipuladas algumas necessidades, as quais devem ser atendidas:
-* Projetar interfaces de usuário para alcançar objetivos de diversos usuários finais
-* Determinar o layout e a apresentação do aplicativo/página
-* Proporcionar uma experiência de usuário agradável, combinada com alto desempenho, segurança e capacidade de resposta
-* Garantir a viabilidade técnica de projetos de UI/UX
-* Otimizar aplicativos para máxima velocidade e escalabilidade
-* Realizar a engenharia da experiência de design de interação de elementos na interface do usuário
-* Garantir uma navegação intuitiva e com acessibilidade
-* A principal ideia aqui é que você faça por você mesmo (DIY).
+* Projetar interfaces de usuário para alcançar objetivos de diversos usuários finais;
+* Determinar o layout e a apresentação do aplicativo/página;
+* Proporcionar uma experiência de usuário agradável, combinada com alto desempenho, segurança e capacidade de resposta;
+* Garantir a viabilidade técnica de projetos de UI/UX;
+* Otimizar aplicativos para máxima velocidade e escalabilidade;
+* Realizar a engenharia da experiência de design de interação de elementos na interface do usuário;
+* Garantir uma navegação intuitiva e com acessibilidade;
+A principal ideia aqui é que você faça por você mesmo (DIY);
 
 
 ## Requisitos técnicos
@@ -46,16 +46,16 @@ Arquivo README.md, contendo:
 * Ferramentas utilizadas, e o por que estas foram escolhidas para a realização do desafio;
 * Decisões adotadas durante o planejamento e execução do desafio, justificando-as.
 IMPORTANTE: Mesmo que você não consiga concluir o desafio por completo, envie o que você conseguiu fazer! Iremos avaliar todo e qualquer desenvolvimento que você nos apresentar! O mais importante deste desafio é, que ao final dele, você adquira novos conhecimentos ou aprimore os que você já possui. ;)
-Após, envie e-mail para marcio.tavares@jamestip.com.br, com cópia para torres@jamestip.com.br, com o assunto "Desafio Front-End", sinalizando a entrega do desafio para avaliação.
-O que será avaliado?
+Após, envie e-mail para *marcio.tavares@jamestip.com.br*, com cópia para *torres@jamestip.com.br*, com o assunto "Desafio Front-End", sinalizando a entrega do desafio para avaliação.
+**O que será avaliado?**
 Usabilidade
 Criatividade
 Boa apresentação (Layout Clean e Profissional)
 Boas práticas da arquitetura da informação
 Código limpo e organização
-Documentação de código (Tip: Podem ser “comentários” no código)
+Documentação de código (*Tip:* Podem ser “comentários” no código)
 Capacidade de tomada de decisões técnicas
  
 # Desafio Bônus
-Implementar testes utilizando jest/testing-library ou outra biblioteca para testes unitários.
+*Implementar testes utilizando jest/testing-library ou outra biblioteca para testes unitários.
 
