@@ -20,7 +20,6 @@ Para isto, foram estipuladas algumas necessidades, as quais devem ser atendidas:
 * Realizar a engenharia da experiência de design de interação de elementos na interface do usuário;
 * Garantir uma navegação intuitiva e com acessibilidade;
 
-&nbsp;
 A principal ideia aqui é que você faça por você mesmo (DIY);
 
 
@@ -36,8 +35,11 @@ Para realização deste desafio, deverão ser observados os seguintes requisitos
 * Fazer a persistência dos dados no localStorage ou IndexedDB;
 * Utilizar styled-components para estilização dos componentes;
 * Utilizar react-router-dom para a navegação entre as páginas;
+
 Você é livre para estruturar o projeto da maneira que achar mais organizada.
+
 Você é livre para implementar o código em qualquer padrão que achar mais adequado.
+
 Você pode adicionar funcionalidades ou utilizar outros componentes como desejar, mas não fuja da simplicidade.
 
 ## Entregáveis
@@ -47,36 +49,26 @@ Arquivo README.md, contendo:
 * Breve descrição das funcionalidades da aplicação entregue;
 * Ferramentas utilizadas, e o por que estas foram escolhidas para a realização do desafio;
 * Decisões adotadas durante o planejamento e execução do desafio, justificando-as.
-IMPORTANTE: Mesmo que você não consiga concluir o desafio por completo, envie o que você conseguiu fazer! Iremos avaliar todo e qualquer desenvolvimento que você nos apresentar! O mais importante deste desafio é, que ao final dele, você adquira novos conhecimentos ou aprimore os que você já possui. ;)
+
+**IMPORTANTE:** Mesmo que você não consiga concluir o desafio por completo, envie o que você conseguiu fazer! Iremos avaliar todo e qualquer desenvolvimento que você nos apresentar! O mais importante deste desafio é, que ao final dele, você adquira novos conhecimentos ou aprimore os que você já possui. ;)
+
 Após, envie e-mail para *marcio.tavares@jamestip.com.br*, com cópia para *torres@jamestip.com.br*, com o assunto "Desafio Front-End", sinalizando a entrega do desafio para avaliação.
 
 ## O que será avaliado?
 Usabilidade
 
-
-&nbsp;
 Criatividade
 
-
-&nbsp;
 Boa apresentação (Layout Clean e Profissional)
 
-
-&nbsp;
 Boas práticas da arquitetura da informação
 
-
-&nbsp;
 Código limpo e organização
 
-
-&nbsp;
 Documentação de código (*Tip:* Podem ser “comentários” no código)
 
-
-&nbsp;
 Capacidade de tomada de decisões técnicas
  
-# Desafio Bônus
+# *Desafio Bônus*
 *Implementar testes utilizando jest/testing-library ou outra biblioteca para testes unitários*
 
