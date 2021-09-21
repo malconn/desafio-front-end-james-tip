@@ -47,15 +47,22 @@ Arquivo README.md, contendo:
 * Decisões adotadas durante o planejamento e execução do desafio, justificando-as.
 IMPORTANTE: Mesmo que você não consiga concluir o desafio por completo, envie o que você conseguiu fazer! Iremos avaliar todo e qualquer desenvolvimento que você nos apresentar! O mais importante deste desafio é, que ao final dele, você adquira novos conhecimentos ou aprimore os que você já possui. ;)
 Após, envie e-mail para *marcio.tavares@jamestip.com.br*, com cópia para *torres@jamestip.com.br*, com o assunto "Desafio Front-End", sinalizando a entrega do desafio para avaliação.
-**O que será avaliado?**
+
+## O que será avaliado?
 Usabilidade
+&nbsp;
 Criatividade
+&nbsp;
 Boa apresentação (Layout Clean e Profissional)
+&nbsp;
 Boas práticas da arquitetura da informação
+&nbsp;
 Código limpo e organização
+&nbsp;
 Documentação de código (*Tip:* Podem ser “comentários” no código)
+&nbsp;
 Capacidade de tomada de decisões técnicas
  
 # Desafio Bônus
-*Implementar testes utilizando jest/testing-library ou outra biblioteca para testes unitários.
+*Implementar testes utilizando jest/testing-library ou outra biblioteca para testes unitários*
 
