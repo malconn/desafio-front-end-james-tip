@@ -53,7 +53,7 @@ Arquivo README.md, contendo:
 
 **IMPORTANTE:** Mesmo que você não consiga concluir o desafio por completo, envie o que você conseguiu fazer! Iremos avaliar todo e qualquer desenvolvimento que você nos apresentar! O mais importante deste desafio é, que ao final dele, você adquira novos conhecimentos ou aprimore os que você já possui. ;)
 
-Após, envie e-mail para *marcio.tavares@jamestip.com.br*, com cópia para *torres@jamestip.com.br*, com o assunto "Desafio Front-End", sinalizando a entrega do desafio para avaliação.
+Após, envie e-mail para *marcio.tavares@jamestip.com*, com cópia para *torres@jamestip.com*, com o assunto "Desafio Front-End", sinalizando a entrega do desafio para avaliação.
 
 ## O que será avaliado?
 Usabilidade
