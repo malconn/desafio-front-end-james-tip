@@ -35,6 +35,7 @@ Para realização deste desafio, deverão ser observados os seguintes requisitos
 * Fazer a persistência dos dados no localStorage ou IndexedDB;
 * Utilizar styled-components para estilização dos componentes;
 * Utilizar react-router-dom para a navegação entre as páginas;
+* (Opcional) Implementar testes utilizando jest/testing-library ou outra biblioteca para testes unitários;
 
 Você é livre para estruturar o projeto da maneira que achar mais organizada.
 
@@ -71,5 +72,5 @@ Documentação de código (*Tip:* Podem ser “comentários” no código)
 Capacidade de tomada de decisões técnicas
  
 # *Desafio Bônus*
-*Implementar testes utilizando jest/testing-library ou outra biblioteca para testes unitários*
+*Implementar o mesmo portal em arquitetura micro-frontend utilizando single-spa*
 
