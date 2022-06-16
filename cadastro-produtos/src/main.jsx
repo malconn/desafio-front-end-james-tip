@@ -5,9 +5,9 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import Home from './modules/Home'
-import './index.css'
-import Cadastro from './modules/Cadastro';
+import Home from './modules/Home/Home'
+
+import Cadastro from './modules/Cadastro/Cadastro';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

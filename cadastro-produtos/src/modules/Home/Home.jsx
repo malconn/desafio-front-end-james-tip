@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../utils/Navbar';
+import Navbar from '../../utils/Navbar/Navbar';
 
 const Home = () => {
   return (
