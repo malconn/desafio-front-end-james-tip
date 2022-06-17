@@ -8,15 +8,24 @@ import {
 import Home from './modules/Home/Home'
 
 import Cadastro from './modules/Cadastro/Cadastro';
+import AppProvider from './utils/Contexts/AppContext';
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/cadastro" element={<Cadastro />} />
-      </Routes>
-    </BrowserRouter>
+    <AppProvider>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={
+              <Home />
+          } />
+          <Route path="/cadastro" element={
+              <Cadastro />
+          } />
+        </Routes>
+      </BrowserRouter>
+    </AppProvider>
+    
   </React.StrictMode>
   
 )

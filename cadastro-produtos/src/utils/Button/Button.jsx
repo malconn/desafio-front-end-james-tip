@@ -1,10 +1,10 @@
 import React from 'react'
 import ButtonStyled from './styles.button'
 
-const Button = ({text}) => {
+const Button = ({text,type}) => {
   return (
     <>
-      <ButtonStyled onClick={(event)=> event.preventDefault()}>
+      <ButtonStyled type={type}>
         {text}
       </ButtonStyled>
     </>

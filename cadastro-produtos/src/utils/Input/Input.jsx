@@ -1,9 +1,14 @@
 import React from 'react'
 import InputStyle from './styles.input'
 
-const Input = ({name,id,placeholder}) => {
+const Input =  ({type,name,id,placeholder}) => {
+  // const [valueInput,setValueInput] = React.useState(null);
   return (
-    <InputStyle name={name} id={id} placeholder={placeholder}/>
+    <InputStyle type={type} name={name} id={id} placeholder={placeholder} 
+      onChange={(event)=>{
+      //  setData((prevState) => [...prevState ,event.target.value])
+      }} 
+    />
   )
 }
 

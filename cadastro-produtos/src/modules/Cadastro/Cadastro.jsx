@@ -1,7 +1,7 @@
 import React from 'react'
 import Form from '../../utils/Form/Form'
 import Navbar from '../../utils/Navbar/Navbar'
-const Cadastro = () => {
+const Cadastro =  () => {
   return (
     <div>
       <Navbar />
