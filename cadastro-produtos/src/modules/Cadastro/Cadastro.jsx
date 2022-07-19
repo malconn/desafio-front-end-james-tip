@@ -5,7 +5,7 @@ const Cadastro =  () => {
   return (
     <div>
       <Navbar />
-      Cadastre seu produto abaixo:
+        Cadastre seu produto abaixo:
       <Form />
     </div>
     
